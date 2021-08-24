@@ -1,0 +1,16 @@
+C:\Users\Hasbi Shuhada\source\repos\InvoiceGenerator\InvoiceGenerator\bin\Debug\net5.0\InvoiceGenerator.exe
+C:\Users\Hasbi Shuhada\source\repos\InvoiceGenerator\InvoiceGenerator\bin\Debug\net5.0\InvoiceGenerator.deps.json
+C:\Users\Hasbi Shuhada\source\repos\InvoiceGenerator\InvoiceGenerator\bin\Debug\net5.0\InvoiceGenerator.runtimeconfig.json
+C:\Users\Hasbi Shuhada\source\repos\InvoiceGenerator\InvoiceGenerator\bin\Debug\net5.0\InvoiceGenerator.runtimeconfig.dev.json
+C:\Users\Hasbi Shuhada\source\repos\InvoiceGenerator\InvoiceGenerator\bin\Debug\net5.0\InvoiceGenerator.dll
+C:\Users\Hasbi Shuhada\source\repos\InvoiceGenerator\InvoiceGenerator\bin\Debug\net5.0\ref\InvoiceGenerator.dll
+C:\Users\Hasbi Shuhada\source\repos\InvoiceGenerator\InvoiceGenerator\bin\Debug\net5.0\InvoiceGenerator.pdb
+C:\Users\Hasbi Shuhada\source\repos\InvoiceGenerator\InvoiceGenerator\obj\Debug\net5.0\InvoiceGenerator.csprojAssemblyReference.cache
+C:\Users\Hasbi Shuhada\source\repos\InvoiceGenerator\InvoiceGenerator\obj\Debug\net5.0\InvoiceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasbi Shuhada\source\repos\InvoiceGenerator\InvoiceGenerator\obj\Debug\net5.0\InvoiceGenerator.AssemblyInfoInputs.cache
+C:\Users\Hasbi Shuhada\source\repos\InvoiceGenerator\InvoiceGenerator\obj\Debug\net5.0\InvoiceGenerator.AssemblyInfo.cs
+C:\Users\Hasbi Shuhada\source\repos\InvoiceGenerator\InvoiceGenerator\obj\Debug\net5.0\InvoiceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Hasbi Shuhada\source\repos\InvoiceGenerator\InvoiceGenerator\obj\Debug\net5.0\InvoiceGenerator.dll
+C:\Users\Hasbi Shuhada\source\repos\InvoiceGenerator\InvoiceGenerator\obj\Debug\net5.0\ref\InvoiceGenerator.dll
+C:\Users\Hasbi Shuhada\source\repos\InvoiceGenerator\InvoiceGenerator\obj\Debug\net5.0\InvoiceGenerator.pdb
+C:\Users\Hasbi Shuhada\source\repos\InvoiceGenerator\InvoiceGenerator\obj\Debug\net5.0\InvoiceGenerator.genruntimeconfig.cache
